@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avnimahesh
 - 👀 I have hands-on experience on Linux and Docker.
-- 🌱 I’m currently learning Ansible, Kubernetes, Terraform and AWS to enhance my skill-set. I am here to do projects with which I could gain some practical exposure and could develop hands-on expertise on the mentioned technologies.
+- 🌱 I’m currently learning Bash scripting, Python and Kubernetes to enhance my skill-set. I am here to do projects with which I could gain some practical exposure and could develop hands-on expertise on the mentioned technologies.
 -  
 - 📫 You can reach me on:
   - Gmail: avnimahesh@gmail.com
